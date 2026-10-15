@@ -25,8 +25,8 @@ A web-based character data generator for *Vampire: The Masquerade 5th Edition (V
 
 1. リポジトリをクローンします。
 ```bash
-git clone https://github.com/[your_username]/vtm5e_character_udonarium_xml_generator.git
-cd vtm5e_character_udonarium_xml_generator
+git clone https://github.com/kenken-trpg/vtm5e_character_xml_generator.git
+cd vtm5e_character_xml_generator
 ```
 
 2. 必要なパッケージをインストールします。
